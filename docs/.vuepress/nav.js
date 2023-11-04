@@ -17,6 +17,10 @@ module.exports = [
             {
                 text: '版本新特性',
                 link: '/pages/aboutme/'
+            },
+            {
+                text: '开发工具',
+                link: '/pages/aboutme/'
             }
         ],
     },
