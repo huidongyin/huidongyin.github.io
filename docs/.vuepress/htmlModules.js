@@ -19,59 +19,59 @@
  */
 
 
-module.exports = {
-    // 万维广告
-    pageT: `
-    <div class="wwads-cn wwads-horizontal page-wwads" data-id="136"></div>
-    <style>
-      .page-wwads{
-        width:100%!important;
-        min-height: 0;
-        margin: 0;
-      }
-      .page-wwads .wwads-img img{
-        width:80px!important;
-      }
-      .page-wwads .wwads-poweredby{
-        width: 40px;
-        position: absolute;
-        right: 25px;
-        bottom: 3px;
-      }
-      .wwads-content .wwads-text, .page-wwads .wwads-text{
-        height: 100%;
-        padding-top: 5px;
-        display: block;
-      }
-  </style>
-  `,
-    homeSidebarB: `
-    <div style="padding: 0.95rem">
-    <p style="
-      color: #1ca0ed;
-      opacity: 0.9;
-      font-size: 20px;
-      font-weight: bold;
-      margin: 0 0 8px 0;
-    ">公众号</p>
-    <img src="./img/architect.jpg"  style="width:100%;" />
-    关注公众号，回复[<b>666</b>]，可获取 <a href="https://www.javaessay.cn/pages/a30957/" arget="_blank" >福利干货资源<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    </p>
-    </div>`,
-    // windowRB: `
-    //   <div class="wwads-cn wwads-vertical windowRB" data-id="136" style="max-width:160px;
-    //   min-width: auto;min-height:auto;"></div>
-    //   <style>
-    //     .windowRB{ padding: 0;}
-    //     .windowRB .wwads-img{margin-top: 10px;}
-    //     .windowRB .wwads-content{margin: 0 10px 10px 10px;}
-    //     .custom-html-window-rb .close-but{
-    //       display: none;
-    //     }
-    //   </style>
-    // `
-}
-
+// module.exports = {
+//     // 万维广告
+//     pageT: `
+//     <div class="wwads-cn wwads-horizontal page-wwads" data-id="136"></div>
+//     <style>
+//       .page-wwads{
+//         width:100%!important;
+//         min-height: 0;
+//         margin: 0;
+//       }
+//       .page-wwads .wwads-img img{
+//         width:80px!important;
+//       }
+//       .page-wwads .wwads-poweredby{
+//         width: 40px;
+//         position: absolute;
+//         right: 25px;
+//         bottom: 3px;
+//       }
+//       .wwads-content .wwads-text, .page-wwads .wwads-text{
+//         height: 100%;
+//         padding-top: 5px;
+//         display: block;
+//       }
+//   </style>
+//   `,
+//     homeSidebarB: `
+//     <div style="padding: 0.95rem">
+//     <p style="
+//       color: #1ca0ed;
+//       opacity: 0.9;
+//       font-size: 20px;
+//       font-weight: bold;
+//       margin: 0 0 8px 0;
+//     ">公众号</p>
+//     <img src="./img/architect.jpg"  style="width:100%;" />
+//     关注公众号，回复[<b>666</b>]，可获取 <a href="https://www.javaessay.cn/pages/a30957/" arget="_blank" >福利干货资源<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+//     </p>
+//     </div>`,
+//     // windowRB: `
+//     //   <div class="wwads-cn wwads-vertical windowRB" data-id="136" style="max-width:160px;
+//     //   min-width: auto;min-height:auto;"></div>
+//     //   <style>
+//     //     .windowRB{ padding: 0;}
+//     //     .windowRB .wwads-img{margin-top: 10px;}
+//     //     .windowRB .wwads-content{margin: 0 10px 10px 10px;}
+//     //     .custom-html-window-rb .close-but{
+//     //       display: none;
+//     //     }
+//     //   </style>
+//     // `
+// }
+//
 
 // module.exports = {
 //   homeSidebarB: `<div style="width:100%;height:100px;color:#fff;background: #eee;">自定义模块测试</div>`,

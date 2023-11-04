@@ -1,10 +1,10 @@
 {
-  "name": "Java-essay",
-  "short_name": "Java-essay",
+  "name": "Huidong Blogs",
+  "short_name": "Huidong Blogs",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "一个Java程序员的成长记录",
+  "description": "花花世界迷人眼，没有实例别赛脸。",
   "theme_color": "blue",
   "icons": [
     {
