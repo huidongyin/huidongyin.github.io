@@ -17,7 +17,7 @@ module.exports = {
   },
   markdown: {
     lineNumbers: true, // 代码块显示行号
-    extractHeaders: ['h1','h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
+    extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
   themeConfig: {
     logo: '/img/code.gif',
@@ -55,7 +55,7 @@ module.exports = {
       icons: [
         {
           iconClass: 'icon-youjian',
-          title: '发邮件',
+          title: 'Email',
           link: 'mailto:huidong.yin247203@gamil.com',
         },
         {
@@ -70,7 +70,7 @@ module.exports = {
         },
         {
           iconClass: 'icon-erji',
-          title: '听音乐',
+          title: 'Music',
           link: 'https://music.163.com/#/playlist?id=755597173',
         },
       ],
@@ -101,7 +101,7 @@ module.exports = {
       'meta',
       {
         name: 'keywords',
-        content: 'Java essay',
+        content: 'Huidong Blogs',
       },
     ],
     ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证（你可以去掉）

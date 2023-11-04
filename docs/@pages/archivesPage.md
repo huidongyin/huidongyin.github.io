@@ -1,6 +1,6 @@
 ---
 archivesPage: true
-title: 归档
+title: 时光回溯
 permalink: /archives/
 article: false
 ---

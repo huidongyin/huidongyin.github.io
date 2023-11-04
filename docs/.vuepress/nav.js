@@ -5,7 +5,8 @@ module.exports = [
             {
                 text: 'JavaSE',
                 link: '/pages/aboutme/',
-            }, {
+            },
+            {
                 text: '并发编程',
                 link: '/pages/aboutme/',
             },
@@ -15,7 +16,7 @@ module.exports = [
             },
             {
                 text: '版本新特性',
-                link: '/pages/aboutme/',
+                link: '/pages/aboutme/'
             }
         ],
     },
@@ -56,9 +57,30 @@ module.exports = [
             },
             {
                 text: 'Tomcat',
-                link: '/pages/aboutme/',
+                link: '/pages/aboutme/'
             }
         ],
+    },
+    {
+        text: "微服务架构",
+        items: [
+            {
+                text: '架构演进',
+                link: '/pages/aboutme'
+            },
+            {
+                text: '分布式事务',
+                link: '/pages/aboutme'
+            },
+            {
+                text: '设计模式',
+                link: '/pages/aboutme'
+            },
+            {
+                text: '领域驱动设计',
+                link: '/pages/aboutme'
+            }
+        ]
     },
     {
         text: "消息队列",
@@ -89,26 +111,6 @@ module.exports = [
                 link: '/pages/aboutme'
             }
         ]
-    }, {
-        text: "微服务架构",
-        items: [
-            {
-                text: '架构演进',
-                link: '/pages/aboutme'
-            },
-            {
-                text: '分布式事务',
-                link: '/pages/aboutme'
-            },
-            {
-                text: '设计模式',
-                link: '/pages/aboutme'
-            },
-            {
-                text: '领域驱动设计',
-                link: '/pages/aboutme'
-            }
-        ]
     },
     {
         text: "搜索引擎",
@@ -118,10 +120,12 @@ module.exports = [
                 link: '/pages/aboutme'
             }
         ]
-    }, {
+    },
+    {
         text: "JVM",
-        link: '/',
-    }, {
+        link: '/'
+    },
+    {
         text: "云计算",
         items: [
             {
@@ -130,22 +134,31 @@ module.exports = [
             }
         ]
     },
-    // {
-    //     text: '日常开发',
-    //     items: [
-    //         {
-    //             text: 'Mac使用日常',
-    //             link: '/pages/a2a9d5e6-b580-3ee0-b2c2-5b1557852fd5/'
-    //         }
-    //     ]
-    // },
+    {
+        text: "大数据",
+        items: [
+            {
+                text: 'Spark',
+                link: '/'
+            },
+            {
+                text: 'Flink',
+                link: '/'
+            },
+            {
+                text: 'Hadoop',
+                link: '/'
+            }
+        ]
+    },
     {
         text: 'AboutMe',
         items: [
             {
                 text: '个人简历',
                 link: '/pages/aboutme/',
-            }, {
+            },
+            {
                 text: '项目经验',
                 link: '/pages/a2a9d5e6-b580-3ee0-b2c2-5b1557852fd5/',
             }
