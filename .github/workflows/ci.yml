@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # 触发条件可以根据您的配置调整
+      - main  # 触发条件可以根据您的配置调整
 
 jobs:
   deploy:
@@ -28,7 +28,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: docs/.vuepress/dist  # 指定生成的静态文件目录
-          target_branch: main  # 部署到的分支
+          target_branch: master  # 部署到的分支
           commit_message: "Deployed to GitHub Pages"  # 提交消息
           deploy_token: ${{ secrets.BLOGS }}  # GitHub Token，无需手动设置
       
