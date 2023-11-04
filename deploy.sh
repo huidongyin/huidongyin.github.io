@@ -4,7 +4,7 @@
 set -e
 
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
-deploy_branch=gh-pages # 推送的分支
+deploy_branch=master # 推送的分支
 user_name=huidongyin
 user_email=huidong.yin247203@gmail.com
 
@@ -20,14 +20,14 @@ if [ -z "$GITHUB_TOKEN" ]; then  # -z 字符串 长度为0则为true；$GITHUB_T
   githubUrl=git@github.com:huidongyin/huidongyin.github.io.git
 else
   msg='Action workflow deploy'
-  githubUrl=https://huidongyin:${GITHUB_TOKEN}@github.com/huidongyin/huidongyin.github.io.git
+  githubUrl=git@github.com:huidongyin/huidongyin.github.io.git
 fi
 git init
 git config user.name $user_name
 git config user.email $user_email
 git add -A
 git commit -m "${msg}"
-git push -f $githubUrl master:$deploy_branch # 推送到github
+git push -f $githubUrl main:$deploy_branch # 推送到github
 
 cd -
 rm -rf $dist_path
