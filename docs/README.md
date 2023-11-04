@@ -1,24 +1,66 @@
 ---
 home: true
-actionText: 开始 →
+actionText: Get Start ->
 actionLink: /archives/
-heroText: Java essay
-tagline: 最大的资本不是经验丰富、胸有成竹，而是敢于做梦、勇于试错。
+heroText: Huidong Blogs
+tagline: 花花世界迷人眼，没有实力别赛脸。
 features:
-- title: Java主流技术生态圈
-  details: Java基础、Spring全家桶，SpringBoot，Mybatis，面试八股文等
-- title: 分布式微服务架构
-  details: SpringCloud，CloudAlibaba，Dubbo等主流微服务框架，设计高并发高可用架构。
-- title: 技术人成长进阶路线
-  details: 以技术为基石，思维升级，提高技术修养，进阶架构，项目管理。
-  footer: Copyright © Mr.Fire
+- title: 搜索引擎
+  details: 花花世界迷人眼，没有实力别赛脸。
+- title: 消息队列
+  details: 花花世界迷人眼，没有实力别赛脸。
+- title: 数据库
+  details: 花花世界迷人眼，没有实力别赛脸。
+  footer: Copyright © Huidong Yin
 ---
 
-✨✨✨
-::: tip 学习三部曲
-每当我们接触一个新的技术时，我们都应该去思考的三个问题，是什么，怎么用，为什么这样设计，即what，how，why。从这三方面入手，当完成最后一步时，你已经对他非常熟悉了。
-::: right
-来自 [Mr.Fire](https://www.javaessay.cn)
-:::
+
+| 姓名   | 工作年限 | 出生日期   | 性别 | Tel         | 邮箱                        |
+| ------ | -------- | ---------- | ---- | ----------- | --------------------------- |
+| 尹会东 | 3年      | 1998.11.16 | 男   | 13342969497 | huidong.yin247203@gmail.com |
+
+---
+
+### 专业技能
+
+1. 熟练掌握Java基础知识，了解各版本特性，读过并发编程，集合框架，IO流等常用API底层源码。
+2. 能够在开发中利用设计模式抽象代码，深入理解领域驱动设计。
+3. 读过Spring，SpringMVC，Mybatis，SpringBoot，SpringCloud(Eureka,Nacos,Sentinel,OpenFeign,Ribbon,Gateway)源码。
+4. 读过Tomcat，Dubbo，Zookeeper，Quartz源码。
+5. 读过Redis源码。
+6. 了解Nginx，ApiSix等网关。
+7. 读过《深入理解Java虚拟机》，有多次JVM线上问题排查与调优经验，经历过小米618大促现场调优。
+8. 掌握MySQL底层原理，SQL调优经验丰富，有小米新零售数据建模开发经验。
+9. 读过RocketMQ源码，掌握Kafka核心原理，熟练使用RabbitMQ，目前负责消息队列相关工作开发。
+10. 熟练掌握ElasticSearch API，深入理解ElasticSearch底层原理，了解ElasticSearch集群运维，读过部分ElasticSearch源码。
+11. 读过Netty源码，了解Netty池化内存管理，有小米新零售直播开发经验。
+12. 熟练使用Linux操作系统，Docker，Jenkins等CICD相关工具。
+13. 了解HTTP与HTTPS协议原理，序列化与反序列化原理，RPC通信原理，熟悉分布式微服务架构，掌握分布式事务解决方案。
+14. 熟练使用JIRA，Asana等项目流程管理工具，熟练使用Markdown，Word，Excel，PPT等工具。
+
+---
+
+### 工作履历
+
+1. 2020.11-2022.06 小米新零售技术部
+2. 2022.07- ZOOM AsyncMQ
+
+---
+
+### 项目经验
+
+1. 小米新零售-零售通
+2. ZOOM消息队列-AsyncMQ
+
+---
+
+### 教育背景
+
+| 学校名称   | 专业       | 就读时间      | 学位 |
+|--------|----------|-----------|----|
+| 齐齐哈尔大学 | 计算机科学与技术 | 2017~2021 | 本科 |
+
+---
+
 
 

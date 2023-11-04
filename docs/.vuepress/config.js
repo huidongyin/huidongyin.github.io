@@ -39,7 +39,7 @@ module.exports = {
     blogger: {
       avatar: '/img/code.gif',
       name: 'huidong.yin',
-      slogan: '我不是大佬',
+      slogan: '花花世界迷人眼，没有实力别赛脸。',
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
     // bodyBgImg: [
