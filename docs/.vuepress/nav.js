@@ -117,7 +117,7 @@ module.exports = [
         items: [
             {
                 text: 'ElasticSearch',
-                link: '/pages/aboutme'
+                link: '/pages/e59543ab-2e20-3091-9bee-927af03168e9/'
             }
         ]
     },
