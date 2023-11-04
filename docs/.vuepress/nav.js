@@ -4,18 +4,18 @@ module.exports = [
         items: [
             {
                 text: 'JavaSE',
-                link: '/pages/c41b1f/',
+                link: '/pages/aboutme/',
             }, {
                 text: '并发编程',
-                link: '/pages/c41b1f/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'JavaWeb',
-                link: '/pages/c41b1f/',
+                link: '/pages/aboutme/',
             },
             {
                 text: '版本新特性',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             }
         ],
     },
@@ -24,39 +24,39 @@ module.exports = [
         items: [
             {
                 text: 'Spring',
-                link: '/pages/c41b1f/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'SpringMvc',
-                link: '/pages/c41b1f/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'Mybatis',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'SpringBoot',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'SpringCloud',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'Dubbo',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'Zookeeper',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'Netty',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             },
             {
                 text: 'Tomcat',
-                link: '/pages/2be000/',
+                link: '/pages/aboutme/',
             }
         ],
     },
@@ -69,11 +69,11 @@ module.exports = [
             },
             {
                 text: 'RocketMQ',
-                link: '/pages/rocketmq'
+                link: '/pages/aboutme'
             },
             {
                 text: 'RabbitMQ',
-                link: '/pages/rabbitmq'
+                link: '/pages/aboutme'
             }
         ]
     },
@@ -82,11 +82,11 @@ module.exports = [
         items: [
             {
                 text: 'MySQL',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             },
             {
                 text: 'Redis',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             }
         ]
     }, {
@@ -94,19 +94,19 @@ module.exports = [
         items: [
             {
                 text: '架构演进',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             },
             {
                 text: '分布式事务',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             },
             {
                 text: '设计模式',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             },
             {
                 text: '领域驱动设计',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             }
         ]
     },
@@ -115,7 +115,7 @@ module.exports = [
         items: [
             {
                 text: 'ElasticSearch',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             }
         ]
     }, {
@@ -126,19 +126,19 @@ module.exports = [
         items: [
             {
                 text: 'Docker',
-                link: '/pages/elasticsearch'
+                link: '/pages/aboutme'
             }
         ]
     },
-    {
-        text: '日常开发',
-        items: [
-            {
-                text:'Mac使用日常',
-                link: '/pages/1c1021ad-9e46-3426-be54-98f2d02a1fa5/',
-            }
-        ]
-    },
+    // {
+    //     text: '日常开发',
+    //     items: [
+    //         {
+    //             text: 'Mac使用日常',
+    //             link: '/pages/a2a9d5e6-b580-3ee0-b2c2-5b1557852fd5/'
+    //         }
+    //     ]
+    // },
     {
         text: 'AboutMe',
         items: [
