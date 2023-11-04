@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # 触发条件可以根据您的配置调整
+      - main  # 触发条件可以根据您的配置调整
 
 jobs:
   deploy:
