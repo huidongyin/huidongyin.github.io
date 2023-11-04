@@ -32,6 +32,10 @@
     "webpack-bundle-analyzer": "~3.6.0"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "consolidate": "^1.0.3",
+    "formidable": "^3.5.1",
+    "har-validator": "^5.1.5",
+    "highlight.js": "^11.9.0"
   }
 }
