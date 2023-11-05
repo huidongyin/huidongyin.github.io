@@ -166,8 +166,8 @@ module.exports = {
           choosen: 'valine',
           options: {
             el: '#valine-vuepress-comment',
-            appId: 'DTvjv5hjkPB9OWpEQtm275gw-gzGzoHsz',
-            appKey: 'yzMYgj5LDur92jlDvOSzcOql'
+            appId: 'TGqT6GffNlXO3Ux7cYOrEgrg-gzGzoHsz',
+            appKey: 'C6vl8fLI8OAjf4CqE6lavZuv'
           },
         },
       ],
