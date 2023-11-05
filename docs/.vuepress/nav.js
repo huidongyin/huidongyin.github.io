@@ -135,6 +135,10 @@ module.exports = [
             {
                 text: 'Docker',
                 link: '/pages/aboutme'
+            },
+            {
+                text: 'Linux',
+                link: '/pages/92da3259-ee3d-3948-9fb0-5cbd8d286c4c/'
             }
         ]
     },
