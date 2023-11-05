@@ -95,7 +95,7 @@ module.exports = [
             },
             {
                 text: 'RocketMQ',
-                link: '/pages/aboutme'
+                link: '/pages/8fd4d53e-d786-3167-a34e-20567f05178f/'
             },
             {
                 text: 'RabbitMQ',
