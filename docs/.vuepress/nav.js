@@ -99,7 +99,7 @@ module.exports = [
             },
             {
                 text: 'RabbitMQ',
-                link: '/pages/aboutme'
+                link: '/pages/34bd75e4-ffe6-33fe-8c52-1ee1e5ca0e7d/'
             }
         ]
     },
