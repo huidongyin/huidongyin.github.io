@@ -82,7 +82,7 @@ module.exports = [
             },
             {
                 text: '领域驱动设计',
-                link: '/pages/aboutme'
+                link: '/pages/3073face-77de-384f-9b00-cd78c67a0a56/'
             }
         ]
     },
