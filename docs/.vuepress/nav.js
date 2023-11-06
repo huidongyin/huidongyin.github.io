@@ -37,7 +37,7 @@ module.exports = [
             },
             {
                 text: 'Mybatis',
-                link: '/pages/aboutme/',
+                link: '/pages/59dc3fea-9c99-38a8-a356-f6dd1fec25ab/',
             },
             {
                 text: 'SpringBoot',
