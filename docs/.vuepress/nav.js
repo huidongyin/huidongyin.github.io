@@ -4,7 +4,7 @@ module.exports = [
         items: [
             {
                 text: 'JavaSE',
-                link: '/pages/aboutme/',
+                link: '/pages/6cba5aa2-abd2-3cb7-b276-5b21d99df05d/',
             },
             {
                 text: '并发编程',
