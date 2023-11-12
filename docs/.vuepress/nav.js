@@ -16,7 +16,7 @@ module.exports = [
             },
             {
                 text: '版本新特性',
-                link: '/pages/aboutme/'
+                link: '/pages/7713cb27-311c-311d-b424-52ba3f191a3a/'
             },
             {
                 text: '开发工具',
