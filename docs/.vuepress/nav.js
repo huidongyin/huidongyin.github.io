@@ -20,7 +20,7 @@ module.exports = [
             },
             {
                 text: '开发工具',
-                link: '/pages/aboutme/'
+                link: '/pages/9115c109-8064-3c41-b13f-244ac1a377f7/'
             }
         ],
     },
