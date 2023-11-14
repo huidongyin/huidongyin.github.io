@@ -12,7 +12,7 @@ module.exports = [
             },
             {
                 text: 'JavaWeb',
-                link: '/pages/aboutme/',
+                link: '/pages/4c4ad5fc-a2e7-33f7-8dbb-1ced00381aa4/',
             },
             {
                 text: '版本新特性',
