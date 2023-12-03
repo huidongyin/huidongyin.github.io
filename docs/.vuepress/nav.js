@@ -169,6 +169,10 @@ module.exports = [
             {
                 text: '项目经验',
                 link: '/pages/a2a9d5e6-b580-3ee0-b2c2-5b1557852fd5/',
+            },
+            {
+                text: 'PPT',
+                link: '/pages/457c4495-1768-3af4-bc65-112ed5748187/',
             }
         ],
     }
