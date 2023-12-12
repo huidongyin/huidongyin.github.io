@@ -4,64 +4,52 @@ module.exports = [
         items: [
             {
                 text: 'JavaSE',
-                link: '/pages/6cba5aa2-abd2-3cb7-b276-5b21d99df05d/',
+                link: '/pages/javase/',
             },
             {
                 text: '并发编程',
-                link: '/pages/aboutme/',
+                link: '/pages/juc/',
             },
             {
                 text: 'JavaWeb',
-                link: '/pages/4c4ad5fc-a2e7-33f7-8dbb-1ced00381aa4/',
+                link: '/pages/javaweb/',
             },
             {
                 text: '版本新特性',
-                link: '/pages/7713cb27-311c-311d-b424-52ba3f191a3a/'
+                link: '/pages/newversion/'
             },
             {
                 text: '开发工具',
-                link: '/pages/9115c109-8064-3c41-b13f-244ac1a377f7/'
+                link: '/pages/maven/'
             }
         ],
     },
     {
-        text: 'Spring全家桶',
+        text: '框架',
         items: [
             {
                 text: 'Spring',
-                link: '/pages/aboutme/',
+                link: '/pages/spring/',
             },
             {
                 text: 'SpringMvc',
-                link: '/pages/aboutme/',
+                link: '/pages/springmvc/',
             },
             {
                 text: 'Mybatis',
-                link: '/pages/59dc3fea-9c99-38a8-a356-f6dd1fec25ab/',
+                link: '/pages/mybatis/',
             },
             {
                 text: 'SpringBoot',
-                link: '/pages/aboutme/',
+                link: '/pages/springboot/',
             },
             {
                 text: 'SpringCloud',
-                link: '/pages/aboutme/',
+                link: '/pages/springcloud/',
             },
             {
                 text: 'Dubbo',
-                link: '/pages/aboutme/',
-            },
-            {
-                text: 'Zookeeper',
-                link: '/pages/aboutme/',
-            },
-            {
-                text: 'Netty',
-                link: '/pages/aboutme/',
-            },
-            {
-                text: 'Tomcat',
-                link: '/pages/aboutme/'
+                link: '/pages/dubbo/',
             }
         ],
     },
@@ -70,75 +58,65 @@ module.exports = [
         items: [
             {
                 text: '架构演进',
-                link: '/pages/aboutme'
+                link: '/pages/architecture/'
             },
             {
                 text: '分布式事务',
-                link: '/pages/aboutme'
+                link: '/pages/tx/'
             },
             {
                 text: '设计模式',
-                link: '/pages/aboutme'
+                link: '/pages/designpattern/'
             },
             {
                 text: '领域驱动设计',
-                link: '/pages/3073face-77de-384f-9b00-cd78c67a0a56/'
+                link: '/pages/ddd/'
             }
         ]
     },
     {
-        text: "消息队列",
+        text: "中间件",
         items: [
             {
                 text: 'Kafka',
-                link: '/pages/c8412896-0c96-3cef-8d32-94dcb1852140/'
+                link: '/pages/kafka/'
             },
             {
                 text: 'RocketMQ',
-                link: '/pages/8fd4d53e-d786-3167-a34e-20567f05178f/'
+                link: '/pages/rocketmq/'
             },
             {
                 text: 'RabbitMQ',
-                link: '/pages/34bd75e4-ffe6-33fe-8c52-1ee1e5ca0e7d/'
-            }
-        ]
-    },
-    {
-        text: "数据库",
-        items: [
+                link: '/pages/rabbitmq/'
+            },
             {
                 text: 'MySQL',
-                link: '/pages/aboutme'
+                link: '/pages/mysql/'
             },
             {
                 text: 'Redis',
-                link: '/pages/aboutme'
-            }
-        ]
-    },
-    {
-        text: "搜索引擎",
-        items: [
+                link: '/pages/redis/'
+            },
             {
                 text: 'ElasticSearch',
-                link: '/pages/e59543ab-2e20-3091-9bee-927af03168e9/'
+                link: '/pages/elasticsearch/'
+            },
+            {
+                text: "JVM",
+                link: '/pages/jvm/'
             }
         ]
-    },
-    {
-        text: "JVM",
-        link: '/'
     },
     {
         text: "云计算",
         items: [
             {
                 text: 'Docker',
-                link: '/pages/aboutme'
+                link: '/pages/docker'
             },
             {
                 text: 'Linux',
-                link: '/pages/92da3259-ee3d-3948-9fb0-5cbd8d286c4c/'
+                link: '/pages/linux/'
             }
         ]
     },
@@ -147,15 +125,15 @@ module.exports = [
         items: [
             {
                 text: 'Spark',
-                link: '/'
+                link: '/pages/spark/'
             },
             {
                 text: 'Flink',
-                link: '/'
+                link: '/pages/flink/'
             },
             {
                 text: 'Hadoop',
-                link: '/'
+                link: '/pages/hadoop'
             }
         ]
     },
