@@ -102,6 +102,10 @@ module.exports = [
                 link: '/pages/elasticsearch/'
             },
             {
+                text: 'Zookeeper',
+                link: '/pages/zookeeper/'
+            },
+            {
                 text: "JVM",
                 link: '/pages/jvm/'
             }
