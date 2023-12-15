@@ -71,6 +71,10 @@ module.exports = [
             {
                 text: '领域驱动设计',
                 link: '/pages/ddd/'
+            },
+            {
+                text: '分布式锁',
+                link: '/pages/89d56d76-7636-3ed6-83c6-310859c07e93/'
             }
         ]
     },
