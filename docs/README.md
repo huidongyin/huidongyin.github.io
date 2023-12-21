@@ -7,10 +7,10 @@ tagline: 花花世界迷人眼，没有实力别赛脸。
 features:
 - title: ElasticSearch
   details: 花花世界迷人眼，没有实力别赛脸。
-  link: /pages/e59543ab-2e20-3091-9bee-927af03168e9/
+  link: /pages/elasticsearch/
 - title: Kafka
   details: 花花世界迷人眼，没有实力别赛脸。
-  link: /pages/c8412896-0c96-3cef-8d32-94dcb1852140/
+  link: /pages/kafka/
 - title: 数据库
   details: 花花世界迷人眼，没有实力别赛脸。
 footer: Copyright © Huidong Yin
