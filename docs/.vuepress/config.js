@@ -43,11 +43,11 @@ module.exports = {
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
     bodyBgImg: [
-     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355337.jpg',
-     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355339.png',
-     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355340.png',
-     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355343.jpg',
-     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355345.jpg'
+     //'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355337.jpg',
+     'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355339.png'
+     //'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355340.png',
+     //'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355343.jpg',
+     //'https://raw.githubusercontent.com/huidongyin/DrawingBed/main/blog/202311042355345.jpg'
     ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时隔bodyBgImgInterval切换一张。
     bodyBgImgOpacity: 1.0, // body背景图透明度，选值 0.1~1.0, 默认0.5
     bodyBgImgInterval: 10, // body多张背景图时的切换间隔, 默认15，单位s
