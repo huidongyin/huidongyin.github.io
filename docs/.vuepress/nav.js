@@ -120,7 +120,7 @@ module.exports = [
         items: [
             {
                 text: 'Docker',
-                link: '/pages/docker'
+                link: '/pages/docker/'
             },
             {
                 text: 'Linux',
