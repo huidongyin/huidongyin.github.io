@@ -119,12 +119,12 @@ module.exports = [
         text: "云计算",
         items: [
             {
-                text: 'Docker',
-                link: '/pages/docker/'
-            },
-            {
                 text: 'Linux',
                 link: '/pages/linux/'
+            },
+            {
+                text: 'Docker',
+                link: '/pages/docker/'
             }
         ]
     },
