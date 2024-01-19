@@ -1,0 +1,25 @@
+{
+  "name": "Huidong Blogs",
+  "short_name": "Huidong Blogs",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "花花世界迷人眼，没有实例别赛脸。",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+//    {
+//      "platform": "Java-essay",
+//      "url": "https://github.com/FireHH/Java-essay"
+//    }
+  ]
+}
