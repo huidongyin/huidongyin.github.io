@@ -149,6 +149,10 @@ module.exports = [
         text: "前端",
         items: [
             {
+                text: 'HTML',
+                link: '/pages/html/'
+            },
+            {
                 text: 'Vue',
                 link: '/pages/vue/'
             }
