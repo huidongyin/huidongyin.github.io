@@ -2,3 +2,4 @@
 /.idea/
 /.git/
 /docs/.vuepress/dist
+package-lock.json
