@@ -1,5 +1,4 @@
-/node_modules/
-/.idea/
-/.git/
-/docs/.vuepress/dist
-package-lock.json
+node_modules
+dist
+.DS_Store
+*.local
